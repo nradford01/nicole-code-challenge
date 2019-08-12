@@ -4,8 +4,10 @@ Code Challenge:
 
 This should be a fairly simple challenge. Neatness, completeness, readability all count.
     Open lib/code_challenge and populate the function placeholder to make the tests pass
-    Code must be pushed to a git repo. Provide the repo url.
     Complete as many challenges as possible.
+
+  To submit your solutions, fork this repo, push your changes, then make a pull request back to this repo.
+
 
   1. Write a function that determines if a string starts with an upper-case letter A-Z.
 
