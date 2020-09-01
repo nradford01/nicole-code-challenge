@@ -9,7 +9,6 @@ class CodeChallenge
   # Write a function that determines if a string starts with an upper-case letter A-Z.
   def start_with_uppercase_letter?(string)
     string[0] =~ /[A-Z]/
-    
   end
 
   # Write a function that determines the area of a circle given the radius.
@@ -51,8 +50,6 @@ class CodeChallenge
       end
       nth_fibonacci(nth-1)
     end
-  
-
   end
 
   # Write a function that takes and array of numbers, multiplies each them by their index, and writes it's values to a csv.
